@@ -23,4 +23,6 @@ function pyramid(n) {
   }
 }
 
+// alternate recursive solutions to follow
+
 pyramid(5);
